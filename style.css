@@ -1,0 +1,29 @@
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    size: 18;
+}
+
+button {
+    padding: 12px 30px;
+    border-radius: 8px;
+    border: none;
+    background-color: aqua;
+}
+
+button:hover {
+    background-color: rgb(11, 136, 136);
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+}
+
+td {
+    padding: 3px;
+    margin: 5px;
+}
+
+.haha {
+    display: flex;
+    justify-content: center;
+}
